@@ -1,4 +1,4 @@
 exit
-h_happy:Obrigado bê!!
-n_normal:Agora só restam 3 peças
-n_happy:Boa sorte!!!
+h_happy:valeu ae boi!!
+n_normal:falta umas 3 agora
+n_happy:vai la agora preguiçoso#do caralho

@@ -1,8 +1,8 @@
 menu
-h_happy:SIMBORA!!!!
-n_happy:Faltam 2 peças!! Estou perto de me completar!!
-n_happy:Você é demais bê, obrigado por confiar#em mim nisso
-n_normal:Curiosidade - Eu sou físicamente incapaz#de ser maneiro
-h_happy:Fantasmas não podem ser encostados#então eles não tem temperatura!!
+h_happy:LESSGOOOO!!!!
+n_happy:2 pecas faltando!! tao perto!!
+n_happy:voce é maneirao boi, valeu pela sua#ajuda nessa bagunça
+n_normal:Curiosidade - nunca assisti o anime de DB!
+h_happy:eu sou mais um leitor de mangá!!
 h_normal:. . .
-h_sad:Certo??
+h_sad:eu nao sei ler??

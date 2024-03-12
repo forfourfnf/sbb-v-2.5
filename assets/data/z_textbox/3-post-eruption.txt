@@ -1,5 +1,8 @@
-sh:normal:1:You're like, actually good and stuff
-sh:normal:1:I don't wanna like bore you, so I'll#sing faster this time
-bf:normal:-1:beep boop boop bap bee
-sh:ser:1:...
-sh:smug:1:Alright, alright...#Here we go man!
+sh:normal:1:ayo you rock!
+sh:normal:1:up the challenge?
+bf:burn:-1:yes this is too ez
+sh:smug:1:suck this candy balls
+bf:normal:-1:what?
+sh:ser:1:what?
+bf:a:-1:*pacific microwave sounds*
+sh:ang:1:doh doh train?

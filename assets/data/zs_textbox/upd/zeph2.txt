@@ -1,16 +1,18 @@
-zsh:laugh:1:JEJAJAJAJA
-zsh:normal:1:GRACIAS BEE!!
-zsh:scream:1:Finalmente puedo SENTIR.
-zsh:normal:1:Extrañaba tanto a la realidad...
-zsh:laugh:1:Estoy MUY EMOCIONADO
-zsh:scream:1:Puedo empezar a TRABAJAR OTRA VEZ!!
-zsh:crazy:1:Puedo CONQUISTAR ALGUNOS UNIVERSOS!!!
+zsh:laugh:1:JEJAJAJA!!
+zsh:normal:1:GRACIAS BOI!!
+zsh:scream:1:AHORA ME SIENTO COMPLETO MUAJAJAJAJ
+zsh:normal:1:EXTRAÑE TANTO ESTO, INCLUSO OLVIDE#COMO PONER MINUSCULAS!!
+bf:normal:-1:????????
+zsh:laugh:1:ESTOY MUY EMOCIONADO
+zsh:scream:1:AHORA PUEDO TRABAJAR EN MIS PROYECTOS DE CIENCIAS
+zsh:crazy:1:CONQUISTAR OTROS UNIVERSOS SIIIIIII
 zsh:normal:1:...
-zsh:normal:1:No con este universo por supuesto,#No me gustaría dejarte sin#un hogar!
-zsh:laugh:1:Eso me recuerda, tenemos unas batallas#pendientes.
-zsh:scream:1:3000 batallas de rap!! Eso es lo que prometí!!
-zsh:normal:1:Pero tengo que hacer muchas cosas aparte#de quedarme aquí...
-zsh:crazy:1:Solo tengo 3 minutos, si me quedo aquí#por mucho rato ALGUIEN podría atraparme...
-zsh:normal:1:Ya sé - Cada 10 años terrestres#voy a venir a pelear contigo.#Una batalla de rap a la vez.
-zsh:laugh:1:Espero que no mueras para ese#entonces JAJAJAJA.
-zsh:scream:1:Muy bien, aquí vamos!! A BATALLAR!!!!
+zsh:normal:1:bueno, el tuyo no boi, me agradas
+zsh:laugh:1:ESPERA, TE PROMETI UNA BATALLA CIERTO?
+zsh:scream:1:42069 BATALLAS DE RAP CIERTO!?!?!?!1
+zsh:normal:1:pero tengo muuucho que hacer....
+bf:normal:-1:no podemos rapear para siempre?
+zsh:crazy:1:No puedo, solo tengo 1 minuto terricola#antes que alguien me atrape...
+zsh:normal:1:BUENO, CADA 4 AÑOS TERRICOLAS ESTARE ACA#Para una o dos peleas
+zsh:laugh:1:OH NO AHORA PUEDO SENTIR LA LOCURA JEJAJAJA.
+zsh:scream:1:AHORA ESTOY MUY HYPEADO!#LISTO PARA ESTA BATALLA!

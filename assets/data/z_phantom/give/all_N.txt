@@ -1,8 +1,8 @@
 exit
 n_normal:...
-n_con:You... Did it...?
+n_con:what the fuck...?
 n_normal:You collected all of my pieces.#Without needing any of my help.
-n_sad:We didn't get to talk that much, huh?
-n_con:Well, there's one more thing that's left now
-n_normal:Take me to where WB Shaggy is
-n_normal:I have to do something.
+n_sad:i wanted to talk with you...
+n_con:Welp, cant be helped, one more thing
+n_normal:Take me to where WB Saggy is
+n_trauma:I have to do something.

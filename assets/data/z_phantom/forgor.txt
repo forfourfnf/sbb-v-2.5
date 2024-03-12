@@ -1,4 +1,4 @@
 forgotPart
-n_trauma:OH I ALMOST FORGOT
-n_happy:You already collected one of my pieces
-n_happy:Can you hand it over to me?
+n_trauma:OH I ALMOST FORGOR
+n_happy:You have my pieces right?
+n_happy:Can you hand it over to me#PREEEEETY PLEASE???

@@ -1,3 +1,4 @@
 continue:hint/eye
-n_happy:Acertou, só tô brincando mesmo hehe
-n_normal:Eu nem preciso disso, posso rasgar#um planeta só de olhar pra ele
+n_happy:MAS É VERDADE
+n_normal:e lasers tambem mas cara#é inutil
+n_normal:eu deleto um planeta com uma encarada

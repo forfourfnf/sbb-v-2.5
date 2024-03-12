@@ -1,8 +1,9 @@
-bf:normal:-1:beep boo baa
-bf:normal:-1:bap bee beep boop bee
-bf:normal:-1:bap bap bee pop
-sh:con:1:That's like, really rude man...#I really-
-bf:normal:-1:bee boop
-sh:ang:1:...
-sh:smug:1:Heh.
-sh:smug:1:Prick.
+bf:burn:-1:*angry microwave noises*
+bf:burn:-1:*minigun noises*
+bf:burn:-1:*oven noises*
+sh:con:1:what the hell?
+gf:normal:-1:hes cursing you and your #dog in beepboops
+bf:normal:-1:GF you're a bit cringe
+sh:smug:1:what if you are the cringe?
+bf:normal:-1:what?
+sh:smug:1:Train go go tree dreidel #the ghost train

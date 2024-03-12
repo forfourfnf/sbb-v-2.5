@@ -1,12 +1,14 @@
 menu
-n_con:Oh I just, you know...
+n_con:Oh you know...
 n_sad:Uhhh
-n_normal:I come from a ""family"" of rulers
-n_normal:Basically we do whatever has to be done to become#more powerfull
-n_trauma:And kinda take over universes or something:songScary
-n_sad:We've had fights between my brother and I about that#fact...
-h_sad:My bro was trying to KILL OUR DAD!! Can you#believe it??
-n_con:At the end he...
+n_normal:I come from a ""family"" of#rulers of fucking everything
+n_normal:Basically we do whatever has to be done to#become more strong and better at singing
+n_trauma:Ah yeah we are universe conqueors:songScary
+n_sad:We've had fights between my brother and I#about somethings...
+h_sad:My bro was trying to KILL OUR WIFE!!#Can you believe it??
+n_con:...
 n_sad:...
-n_normal:Forget about it:songGood
-n_happy:Just know I do cool shit!!
+n_sad:i cant lie, i miss my wife, boifrendo
+n_sad:i miss her alot
+n_normal:but who needs wives...:songGood
+n_happy:when you can do cool shit!?!?

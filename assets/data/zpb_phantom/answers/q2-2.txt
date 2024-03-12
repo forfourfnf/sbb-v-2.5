@@ -1,12 +1,14 @@
 menu
-n_con:Ah eu só, cê sabe...
+n_con:Ah ta ligado né...
 n_sad:Uhhh
-n_normal:Eu vim de uma ""família"" de líderes
-n_normal:Basicamente nós faziamos de tudo para ficar mais#poderosos
-n_trauma:E meio que dominar alguns universos:songScary
-n_sad:Nós tivemos lutas entre eu e o meu irmão por#conta desse fato...
-h_sad:Meu irmão tentou MATAR NOSSO PAI!! Dá pra#acreditar??
-n_con:No fim de tudo ele...
+n_normal:Eu vim de uma ""família"" de#donos da porra toda
+n_normal:A gente faz basicamente o que#tem que ser feito pra ficar forte#e melhores cantores
+n_trauma:Ah sim a gente é dominadores de universos:songScary
+n_sad:Meu irmão e eu brigamos bastante#sobre...coisas
+h_sad:Meu mano queria MATAR A NOSSA ESPOSA!!#Pode acreditar nessa??
+n_con:...
 n_sad:...
-n_normal:Deixa pra lá:songGood
-n_happy:Só saiba que eu faço coisas bacanas!!
+n_sad:nao posso mentir, eu sinto falta dela, boifrendo
+n_sad:eu sinto muita falta da minha esposa
+n_normal:mas quem precisa de esposas...:songGood
+n_happy:quando você pode fazer muita#porra boa!?!?

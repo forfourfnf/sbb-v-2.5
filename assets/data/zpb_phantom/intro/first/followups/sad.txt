@@ -1,12 +1,14 @@
 forceExit
 n_con:...
-n_sad:Oh...:musicStop
-n_sad:Eu te entendo completamente
-s_normal:Me parece que eu terei que esperar
-h_sad:Mais algumas eras
-n_con:Para procurar por mais ajuda...
-n_sad:Agradeço mesmo assim bee
-n_sad:Se você reconsiderar... eu estarei aqui,#observando. Não irei mover um músculo.
-n_con:Não consigo fazer isso de qualquer forma haha
+n_sad:a...:musicStop
+n_sad:eu entendo (não entendo)
+s_normal:bem, vou ter que esperar
+h_sad:Mais umas eras
+n_con:pra achar mais ajuda...
+n_sad:Fica suave Boi
+n_sad:voce sempre pode tipo... reconsiderar,#estarei esperando, não vou me mexer.
+n_con:eu nao sei me mexer
 n_sad:...
-s_normal:Tchauzinho
+n_con:nem se eu pedir por favorzinho???????
+n_sad:...
+s_normal:vai se fuder.

@@ -1,8 +1,8 @@
-sh:ser:1:You haven't seen scoob around?
-bf:normal:-1:bap boop
-sh:con:1:Oh gosh! I haven't like, found him either!#He must be so scared...
-bf:normal:-1:boop bap
-sh:con:1:Huh? sing again?
-sh:ser:1:You know, maybe singing Scooby's#favorite song might call his attention#and stuff
-sh:con:1:If he can hear us...
-sh:normal:1:Alright, here we go.
+sh:ser:1:i was taking a shit, where's scob?
+bf:normal:-1:I DONT KNOW
+sh:con:1:AH CRAP! i bet he's frickin #scared right now
+bf:normal:-1:do not care, sing again
+sh:con:1:A G A I N?
+sh:ser:1:so lets tune on my cachorro's #favourite song
+bf:normal:-1:if its good, so be it
+sh:ang:1:you're kidding with me?

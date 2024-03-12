@@ -1,3 +1,3 @@
-zp:normal:-1:Ele tá ali!!
-zp:happy:-1:Agora eu posso fazer a coisa!!!!
-zp:scream:-1:Lá vou eu!! Só olha, Bê efi!!!!
+wbsh:normal:1:que porra é essa?
+zp:normal:-1:Ai ta ele!!!!
+zp:scream:-1:RAPIDO, PEGA ELE BOI!!!!!!

@@ -1,7 +1,8 @@
-prompt:Understood:I can't:hint/followups/frame_understood:hint/followups/frame_cant
-n_normal:O resto do meu rosto foi jogado pra#dentro do chão
-n_con:De alguma forma
-n_normal:E tá enterrado debaixo da mansão (como caralhos)
-n_happy:Você pode ir pra música aonde você#enfurece o Salsicha pra ele quebrar#o chão inteiro de novo
-n_normal:E assim
-h_normal:Você consegue pegá-lo!!
+prompt:Entendi:Num sei:hint/followups/frame_understood:hint/followups/frame_cant
+n_normal:O formato da minha cara ta#enfiado no chao
+n_con:nao sei como
+n_normal:enterraram ela na mansao#(vai toma no cu como????)
+n_happy:volta na musica onde voce mijou no#cachorro do saggy pra fazer ele quebrar tudo
+n_normal:e minha cara vai estar livre
+n_normal:ai
+h_normal:voce P E G A ela!!

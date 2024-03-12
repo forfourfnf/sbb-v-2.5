@@ -1,17 +1,18 @@
-bf:normal:-1:boop ba beep?
-rsh:normal:1:Mi perro?
-rsh:con:1:Te refieres a Scooby?
-bf:normal:-1:baa
-rsh:ser:1:Se murió hace mucho tiempo...
-rsh:con:1:Espera, Como conoces a Scooby?
-bf:a:-1:...
-gf:normal:-1:Vimos a tu perro literalmente la#semana pasada
-rsh:ang:1:A así que Shaggy estuvo aquí.
-bf:a:-1:..baa?
-rsh:ser:1:No, no somos la misma persona.
-rsh:ser:1:Supongo que los visitó cuando le#conté sobre tu poder
-rsh:normal:1:También, sabían que ahora mismo#está en un torneo?
-rsh:smug:1:Su siguiente pelea empieza pronto y#no me la quiero perder.
-bf:normal:-1:..beep
-rsh:smug:1:Una mas?
-rsh:smug:1:Muy bien...
+bf:normal:-1:man por que lloras?
+rsh:normal:1:que?
+rsh:con:1:no tienes una mascota?
+bf:normal:-1:nah
+rsh:ser:1:yo tampoco, scob murio #hace algunos años ya...
+bf:a:-1:espera, pense que lo habiamos matado?
+rsh:con:1:COMO SABES DE MI SCOOBY?
+gf:normal:-1:Hicimos una broma la week pasada mierdita
+rsh:ang:1:Espera, Saggy estuvo aca?
+bf:a:-1:pero que mierda?
+rsh:ser:1:Acaso no ves que soy rojo?
+bf:normal:-1:ah
+gf:normal:-1:Entonces son diferentes Saggys?
+rsh:ser:1:seh, estabamos viajando y, #bueno, probamos tu poder
+rsh:normal:1:supongo que estaba muy emocionado asi que rapeo contigo
+rsh:smug:1:hablando de eso, nos reunimos para entrenar como,#ahora mismo.
+bf:normal:-1:nooo bro yo te amo no me dejeeees WAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+rsh:con:1:Bueno, calmate, perra exagerada...

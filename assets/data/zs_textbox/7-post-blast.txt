@@ -1,8 +1,9 @@
-bf:normal:-1:beep boo baa
-bf:normal:-1:bap bee beep boop bee
-bf:normal:-1:bap bap bee pop
-sh:con:1:Eso es muy rudo viejo, yo#deverdad...
-bf:normal:-1:bee boop
-sh:ang:1:...
-sh:smug:1:Je.
-sh:smug:1:Pendejo.
+bf:burn:-1:*sonidos de microondas enojado*
+bf:burn:-1:*sonidos de minigun*
+bf:burn:-1:*sonidos de horno*
+sh:con:1:que demonios?
+gf:normal:-1:te esta maldiciendo a ti y a tu #perro en beepboops
+bf:normal:-1:GF das un poco de cringe
+sh:smug:1:y que si tu das cringe?
+bf:normal:-1:que?
+sh:smug:1:Train go go tree dreidel #el ghost train

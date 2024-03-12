@@ -1,12 +1,14 @@
 menu
 n_normal:Oh you wanna know how I got here?
-n_happy:Funny story, I actually don't know
-n_con:In one moment I was doing my job and the next thing#I know I am completely torn apart
-n_sad:I had a vision though, I heard a strange voice before#I was transformed
-n_sad:But...
+n_happy:I don't fucking remember
+n_con:i was like minding my damn business and#all of the sudden i was dead and alive?????
+n_sad:i dunno but i heard someone speaking#of 'how the fuck im gonna do this sprite?'
+n_sad:i dont know who it was but..
 n_con:I don't wanna get into it right now.
-n_normal:I have no idea why this place was chosen, I guess it has#something to do with the extreme time#discontiuation in here
-n_con:I've spent eons on this place and yet you're still 19
+n_sad:because he looked like he was rushing#something like rushing#saggy potato quality mod?
+n_normal:Anyways I have no idea why this place#was chosen,my guess is that time#doesnt fucking work here
+n_con:I've spent fucking eons on this place#and yet you're still 19
 n_con:...
-h_normal:WELL HERE I AM NOW
-h_sad:After some bad luck I lost my face and I can't do much
+h_normal:AT LEAST WE ARE HERE
+h_sad:After some bad luck, im trapped here but#i guess its fine
+h_normal:I have you by my side now Boi

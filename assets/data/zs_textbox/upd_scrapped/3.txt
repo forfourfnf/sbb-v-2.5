@@ -1,15 +1,15 @@
 bf:normal:-1:boop ba beep?
-rsh:normal:1:My dog?
-rsh:con:1:You mean scooby?
+rsh:normal:1:Mi perro?
+rsh:con:1:Hablas de Scooby?
 bf:normal:-1:baa
-rsh:ser:1:He's been dead for a long#time now...
-rsh:con:1:Wait, how do you know about scooby?
+rsh:ser:1:Ha estado muerto por un largo#tiempo ya...
+rsh:con:1:Espera, como conoces a Scooby?
 bf:a:-1:...
-gf:normal:-1:We literally saw your dog last week
-rsh:ang:1:Oh so shaggy was here.
+gf:normal:-1:Literalmente vimos a tu perro la week pasada
+rsh:ang:1:Oh, Shaggy estuvo aqui entonces.
 bf:a:-1:..baa?
-rsh:ser:1:No, we're not the same person
-rsh:ser:1:I guess he visited you when I#told him about your power
-rsh:normal:1:Also, did you hear he's in a#tournament right now?
-rsh:smug:1:His next fight starts soon and I don't wanna#miss it and stuff.
-rsh:smug:1:So let's sing one more song!
+rsh:ser:1:No, no somos la misma persona
+rsh:ser:1:Supongo que te visito cuando le#conte sobre tus poderes
+rsh:normal:1:Hey, no escuchaste que esta en un#torneo ahora mismo?
+rsh:smug:1:Su siguiente pelea empezara pronto, no quiero#perdermela y eso.
+rsh:smug:1:Asi que cantemos otra cancion mas!

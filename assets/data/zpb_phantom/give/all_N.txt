@@ -1,8 +1,8 @@
 exit
 n_normal:...
-n_con:Você... Conseguiu...?
-n_normal:Você coletou todas as minhas peças.#Sem precisar da minha ajuda.
-n_sad:Não conseguimos nem falar tanto assim,#não é?
-n_con:Bom, só tem mais uma coisa a ser feita agora
-n_normal:Me leve para onde o Salsicha da#Warner Bros está
-n_normal:Eu preciso fazer algo.
+n_con:oxe porra...?
+n_normal:You coletou todas as minhas peças.#Sem a minha ajuda.
+n_sad:eu queria conversar contigo...
+n_con:bem, acontece ne, mas ae#me faz um favor?
+n_normal:me leva até o wb saggy
+n_trauma:Eu preciso fazer algo.

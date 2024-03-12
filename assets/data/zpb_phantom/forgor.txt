@@ -1,4 +1,4 @@
 forgotPart
-n_trauma:AH EU QUASE ESQUECI
-n_happy:Você já coletou uma das minhas peças
-n_happy:Poderia me devolvê-la?
+n_trauma:CARA QUASE ESQUECI
+n_happy:voce tem a peça que eu queria?
+n_happy:Pode me dar ela PORFAVORZINHOOOO???

@@ -1,5 +1,5 @@
 exit
-n_normal:Oh!! Você já coletou várias das minhas#peças!!
-n_happy:Isso é... ótimo!!
-n_con:Você nem ao menos precisou da minha# ajuda, não foi?
-n_normal:Mas estou feliz em saber que você está#sem dificuldades pra achar as minhas#peças.
+n_normal:TAPORRA OLHA O QUANTO!!
+n_happy:isso é...bom!!
+n_con:Nem precisou de ajudinha?#coe cara...
+n_normal:Bem, pelo menos ta facin pra você.

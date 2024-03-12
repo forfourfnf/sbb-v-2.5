@@ -1,10 +1,12 @@
 menu
-n_happy:E aí!!
-n_normal:Bem vindo:addNext
-n_happy:ao:tied
-n_normal:Olá
-n_normal:Bem vindo
-n_happy:Como vai
-n_normal:Saudações.
-n_happy:Oi!!!
-n_happy:Bem vindo de volta!!
+n_happy:yo yo yo!!
+n_normal:Bem vindo de volta:addNext
+n_happy:para o:addNext
+n_con:uhhhhhhhhhh:tied
+n_normal:salve
+n_normal:Welcome (old)
+n_happy:eh eh eh eh eh
+n_normal:saudacoes:addNext
+n_normal:eu sou chara- zoei:tied
+n_happy:oiiiii!!!
+n_happy:meu deus boifrendo olaaaaaaaa

@@ -1,10 +1,11 @@
-wbsh:normal:1:Impresionante.
-wbsh:smug:1:Lograste derrotar hasta a mi!
-bf:normal:-1:bee...
-wbsh:normal:1:Te debes sentir muy orgulloso de ti mismo
-wbsh:smug:1:Me alegro de poder haberte dado ese#sentimiento al intentar patearte el trasero
-bf:a:-1:...
-wbsh:smug:1:Bueno, eso es todo
-wbsh:normal:1:Ahora yo me voy.
-wbsh:smug:1:Si me pudiste ganar, seguramente#descubrirán como salir de este lugar.
-wbsh:laugh:1:Hasta nunca, viejo!
+wbsh:normal:1:mierda, perdi
+bf:normal:-1:muy cool
+wbsh:smug:1:bueno, lo intente
+wbsh:smug:1:deberias estar orgulloso de vencer#a una entidad divina como yo
+wbsh:normal:1:pero, sabes que estas atrapado aqui no?
+bf:a:-1:mierda
+wbsh:smug:1:nah no te preocupes
+wbsh:smug:1:siempre puedes follarte a ti mism-
+gf:normal:-1:y que hay de mi, gran imbecil?
+wbsh:normal:1:...
+wbsh:laugh:1:NOS VIMOS, VIRGEN DE MIERDA!

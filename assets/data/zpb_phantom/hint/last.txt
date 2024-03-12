@@ -1,6 +1,7 @@
 menu
-h_happy:Você achou todas as minhas peças!! Meu rosto está#completo!!!
-n_normal:Se você puder me levar pra onde o Salsicha#da Warner Bros está, isso seria bacana
-n_trauma:Eu quero fazer algo:songScary
-h_normal:Mas é segredo então nem pergunte!!:songGood
-n_happy:Só me leve até lá, você não vai se#arrepender
+h_happy:Voce pegou as peças que eu queria!!#estou completo agora!!!
+n_normal:agora me leva até o WB Saggy#e eu te dou 10 pesos
+n_trauma:eu quero fazer algo:songScary
+h_normal:nao pergunta, é segredo!!:songGood
+n_normal:so me leva até la que tu nao#vai se arrepender
+n_normal:as e eu nao tenho 10 pesos#(eu nao sei o que é um peso)

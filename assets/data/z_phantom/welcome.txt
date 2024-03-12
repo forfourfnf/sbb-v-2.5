@@ -1,10 +1,12 @@
 menu
-n_happy:Hey there!!
-n_normal:Welcome:addNext
-n_happy:To the:tied
-n_normal:Hello
-n_normal:Welcome
-n_happy:Heya
-n_normal:I formaly salute you.
-n_happy:Hi!!!
-n_happy:Welcome back!!
+n_happy:yo yo yo!!
+n_normal:Welcome back:addNext
+n_happy:To the:addNext
+n_con:uhhhhhhhhhh:tied
+n_normal:ayo
+n_normal:Welcome (old)
+n_happy:eh eh eh eh eh
+n_normal:greetings:addNext
+n_normal:i am chara- kidding:tied
+n_happy:Hiiii!!!
+n_happy:oh boifrendo hiiiiii!!

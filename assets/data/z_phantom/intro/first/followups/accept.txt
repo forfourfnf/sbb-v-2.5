@@ -1,8 +1,8 @@
 menu
-h_normal:AMAZING!!:introAccept
+h_normal:YOOOOOOOOOO!!:introAccept
 h_happy:Couldn't be HAPPIER to be working with you!!
 n_normal:ahem..
-n_normal:As I value your intelligence as an individual I will not#spoon-feed you the information you need to know#to find my pieces
-n_happy:But, y'know, if you ever feel a bit lost...
+n_normal:As I value your dumbness as an individual I will#difficult the information you need to know#how to find my pieces
+n_happy:oh but if you're sad or anything...
 h_happy:Feel free to come talk to me! about anything!
-h_sad:(Please):musicStop
+h_sad:(for the love of god):musicStop

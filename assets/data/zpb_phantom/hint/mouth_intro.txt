@@ -1,5 +1,6 @@
 continue:hint/mouth
-n_normal:Uma das minhas partes faltando é a#minha BOCA
-n_happy:Com a minha BOCA eu posso FALAR
-n_con:Mas sem ela, eu posso apenas falar com você
-n_normal:(E a sua gê efi eu acho, não sei ela fica#me encarando de um jeito ameaçador)
+n_normal:Uma das minhas partes é a minha boca
+n_happy:com BOCA eu posso FALAR
+n_normal:e comer cu de curioso
+n_con:sem isso, eu so posso falar contigo...
+n_normal:(e a Girofrendo mas seila ela so ta#me encarando ameaçadamente)

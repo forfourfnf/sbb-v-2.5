@@ -1,18 +1,18 @@
 bf:normal:-1:bop ba
-rsh:ang:1:What do you mean "that's it"?!
-rsh:con:1:I'm like, scared of winning dude...
+rsh:ang:1:A que te refieres con "eso es todo"?!
+rsh:con:1:Me da miedo, como, ganarte amigo...
 bf:burn:-1:bup baap bee bom pa
-rsh:ang:1:Oh so you would risk your life for a#rap battle? and you call me dumb?
-rsh:ang:1:If you decide to not keep trying my#existence is done for!
+rsh:ang:1:Asi que arriesgarias tu vida por una#batalla de rap? Y a mi me llamas tonto?
+rsh:ang:1:Si decides no seguirlo intentando, mi#existencia ya no sera mas!
 bf:normal:-1:bapee bo
 bf:normal:-1:beep ba beebo bap bee, baa bep#bop be?
 rsh:con:1:...
-rsh:ang:1:I don't know, you...
-rsh:ser:1:Oh, you can't give up because...
-rsh:pens:1:You'd stop existing too!
+rsh:ang:1:No lo se, tu...
+rsh:ser:1:Oh, no te puedes rendir porque...
+rsh:pens:1:Dejarias de existir tambien!
 bf:burn:-1:baap!
-rsh:normal:1:Man, I feel like, so dumb
-rsh:normal:1:You have infinite retries but you're stuck#with me until you win and stuff
-rsh:smug:1:I guess I got worried for nothing huh.
+rsh:normal:1:Bro, me siento muy tonto
+rsh:normal:1:Puedes intentarlo infinidad de veces pero estas atrapado#conmigo hasta que ganes y eso...
+rsh:smug:1:Supongo que me preocupe por nada.
 bf:normal:-1:baaap bo beep
-rsh:smug:1:You're gosh darn right Imma step it up!
+rsh:smug:1:Estas en todo lo correcto! Subire el nivel de esto!

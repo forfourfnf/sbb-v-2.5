@@ -1,5 +1,10 @@
-sh:normal:1:Você é tipo, bom mesmo e coisa assim.
-sh:normal:1:Eu num quero te entediar meu fi, então#eu vou cantar mais rápido dessa vez.
-bf:normal:-1:beep boop boop bap bee
-sh:ser:1:...
-sh:smug:1:Beleza, beleza...#Bora lá cara!
+sh:normal:1:Ce é pika mesmo!
+sh:normal:1:Quer mais desafio?
+bf:burn:-1:Sim porque ta muy facin
+sh:smug:1:Engole isso aqui então,#saco murcho
+bf:normal:-1:tu é mano?
+sh:ser:1:não...?
+bf:normal:-1:Mas é tu que deixa
+sh:ang:1:que
+bf:a:-1:*Barulhos de microondas manso*
+sh:ang:1:doh doh train?

@@ -1,22 +1,28 @@
 markReplace:backstory:answers/q3-3-2
-n_normal:O passado dele?
-n_normal:O altão não passou por tanta coisa, por#isso ele é o mais fraco
-n_sad:Mas os outros passaram por MUITA coisa.
-n_normal:O verdinho obteve o poder dele aos 17, o#vermelho aos 18
-n_happy:Eles eram bem jovens, eu acho que essa#foi a chave para ganhar tanto poder assim
-n_con:Porém teve um momento marcante na vida deles...:fadeOut
-n_sad:O Salsicha tinha essa gangue inteira de amigos.#Mas a um ponto, algo terrível aconteceu.
-n_sad:Um dos amigos dele ficou insano e...
-n_sad:Ela matou a todos eles.
-s_normal:O Salsicha Verde amava ela profundamente,#foi doloroso de ver ela perder a#cabeça daquele jeito.
-s_normal:Ele consegue impedir ela de matar o Scooby, antes#dela tomar a própria vida.
-n_sad:O vermelho não foi tão sortudo. Ele não tinha#uma conexão tão forte com ela então ele não#estava lá quando o massacre aconteceu.
-s_normal:Ele só voltou do almoço pra achar...#A gangue inteira morta...
+n_normal:O passado dele, huh?
+n_normal:O grandão foi patrocinado#ele é o mais fraco
+n_sad:Mas os outros passaram por MUITO.
+n_normal:tiveram os poderes nos seus 18,#quase foram presos
+n_happy:Eles eram muito jovens, acho que isso#foi a chave pro crescimento absurdo deles
+n_con:Mas teve um evento canonico na vida deles...:fadeOut
+n_sad:Saggy tinha uma gangue de amigos. Mas em#um dia, algo terrivel aconteceu.
+n_sad:Uma de suas amigas ficaram doidona de pedra...
+n_sad:Ela matou todos.
+s_normal:O verde a amou muito, doeu pra caralho#ver a sua mina ir a loucura.
+s_con:mas imagina um relacionamento toxico...#é cara...
+s_normal:Ele conseguiu proteger o scob,#andes dela enfrentar o Saggy e ir de base...
+n_sad:O vermelho deu azar. ele teve uma forte#conexao com ela antes de sair do armario.
+n_sad:ela ficou maluca, como uma jogadora genocida#de undertale
+s_normal:Ele so voltou do almoco e descobriu... #A gangue dele massacrada...
+s_con:e quase foi morto pela uma maniaca antes...
+n_sad:...dele ter que acabar com isso.
 n_sad:...
-n_con:Eles ficaram cada vez mais fortes desde então.
-n_sad:Eles estavam devastados no momento,#especialmente o Salsicha verde.
-n_con:Conforme o tempo passa, eles superaram o#acontecimento:fadeIn
-n_normal:Agora eles tem 70 anos e focam em descobrir#lugares pelo corredor!
-n_normal:Eles ficam cada vez mais fortes e acham mais#oponentes.
-n_happy:é bom ver eles felizes assim.
-n_con:Ah e depois de um ponto eles conseguem#cantar bem agora??
+n_con:Eles ficaram cada vez mais fortes apos isso.
+n_sad:Ficaram devastados no acontecimento
+n_con:Mas o verde ficou suave? (como?):fadeIn
+n_con:mas passado é passado
+n_normal:Agora eles tem seila quantos anos#(eles mentem a idade demais eu perdi a conta)
+n_normal:e focam em descobrir milhares#de lugares atraves dos corredores!
+n_normal:Eles continuam ficando fortes#e encontram novos oponentes.
+n_happy:eu amo eles, são tao felizes.
+n_con:E em algum ponto eles viraram#cantores horriveis??

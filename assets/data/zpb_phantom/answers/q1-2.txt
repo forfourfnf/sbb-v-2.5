@@ -1,17 +1,18 @@
 menu
-n_normal:Antes de ficar preso nessa máscara, #eu era algo a mais.
-n_trauma:Algo poderoso
-n_trauma:Eu era temido por muitos, desprezado por muitos outros
-n_happy:Eu não poderia pedir por mais poder!! #Eu tinha tudo em mãos...
-n_con:Mas quando você é poderoso demais, alguém#arranca esse poder de você
-n_sad:Sem piedade
+n_normal:Antes de ficar preso na máscara,#Eu era algo.
+n_trauma:Eu era forte pra cacete
+n_trauma:Todo mundo tinha medo de mim,#outros só me odiavam
+n_happy:EU TINHA TUDO COMO SE TIVESSE#MINHA PRÓPRIA BANDA DE FUNK!!
+n_con:Mas quando você fica muito poderoso,#algumas coisas precisam dar errado, né?
 s_normal:...:fadeOut
-s_angry:Existe um ser que abusa do poder dele,#alguém tão poderoso que não dá pra imaginar.#O ser que me deixou desse jeito.
-s_con:Não estou falando sobre deuses de mitologias#antigas ou formas god incolores.
-s_con:Estou falando de omnipotência total
-s_con:Mas assim...
-s_normal:Quando você tem esse poder, quem não quer agir#como se o multiverso estivesse em suas mãos?
-s_con:...
-h_sad:MAS NãO SE PREOCUPE COM ISSO!!!:fadeIn
-n_happy:Com a sua ajuda nós podemos superar a omnipotência!!
-n_normal:eu acho
+s_angry:Tem um arrombado ai que adora#ser um DEUS, alguem tão forte que não#da nem pra imaginar.
+s_con:Esse cara foi o que me deixou assim.
+s_con:Não to falando de Jesus ou de, tipo,#Deuses ou super formas de Dragon Ball
+s_con:Estou falando de total onipotencia
+s_con:Mas é...
+s_normal:Quando você tem isso, da pra culpar?#parece que o multiversus está na#palma da mão!!
+s_sad:...
+h_happy:MAS NÃO SE PREOCUPE COM ISSO!!!:fadeIn
+n_happy:Juntos podemos mostrar para o mundo #o que podemos fazer!!
+n_happy:Você perto de mim e eu perto de-
+n_con:meu deus porque eu fiz uma referência a#Sonic Forces?

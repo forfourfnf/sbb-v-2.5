@@ -1,8 +1,8 @@
-wbsh:normal:1:Bem, bem, bem, olha só oque temos aqui.
-wbsh:smug:1:Você parece um pouco perdido.
-bf:burn:-1:beep bop bap, skdee bop!
-wbsh:normal:1:Cacete, sério mesmo?
-wbsh:normal:1:Cê tem coragem, vindo assim no meu domínio#e falando coisa desse tipo.
-wbsh:smug:1:Espero que você esteja preparado#pra levar uma surra, azulzinho.
-bf:burn:-1:bo beep baap bo
-wbsh:laugh:1:Eu vou fazer você engolir essas palavras,#se prepare para ser destruído!
+wbsh:normal:1:ora, ora, ora, olha so quem comeu meu pai? 
+bf:a:-1:NAO FOI EU, EU JURO!
+wbsh:smug:1:sim eu sei, você é cagão
+bf:burn:-1:AH É E TU QUER CAIR PRA DENTRO???
+wbsh:laugh:1:SIM EU QUERO O CABEÇA DE CAXUMBA
+wbsh:laugh:1:VEM TRANQUILO QUE EU VOU QUEBRAR#TEU SACO EM DOIS
+bf:burn:-1:QUERO VER VOCÊ TENTAR SEM#NENHUMA VADIA
+wbsh:laugh:1:JA DEU, VAMOS VER QUEM É O MELHOR!

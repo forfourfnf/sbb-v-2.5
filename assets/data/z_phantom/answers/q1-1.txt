@@ -1,8 +1,8 @@
 menu
-n_normal:The name's Zephyrus
-n_happy:But I've personally decided to call myself#"Phantom zephyrus" for the time being
-n_con:Since, y'know, currently I don't exist
-h_normal:It sounds really COOL if you ask me!!
+n_normal:The name's Zaperson
+n_happy:But I call myself "phantom zap"#for the time being
+n_con:i dont exist
+h_normal:BUT IT SOUND SO COOL IT'S LIKE A FNAF NAME!!
 h_normal:...
-n_normal:Or you can call me zeph, like my friends do#(I don't have friends)
-n_happy:Anyways what was I talking about...?
+n_normal:ok you can call me zap
+n_happy:like whatsapp yeah? zapzap?

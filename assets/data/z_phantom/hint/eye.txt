@@ -1,6 +1,6 @@
 menu
-n_normal:Believe it or not, my eye was STOLEN!!
-n_sad:By the cockiest shaggy I know
-s_angry:He just took it and pocketed it!! Like it was a#fucking penny on the street!!!!
-h_happy:Luckily the shaggy that took it is also the#stupidest one
-n_normal:He probably drops it after he screams his#lungs out singing
+n_normal:YO SO SOMEONE STOLE MY EYE ?!?!
+n_sad:By the cockiest saggy I know
+s_angry:He just took it and ate it,#holy shit what an asshole!!!!
+h_happy:Luckily this is also the dumbest#saggy i've ever see
+n_normal:He will spit it out when he#screams all of his lungs out

@@ -1,13 +1,16 @@
 rsh:ser:1:...
-rsh:con:1:Porqué me seguiste?
-bf:normal:-1:beepee bo
-rsh:ang:1:Oh, porqué será
-rsh:ang:1:Como te sentirías TU si alguien mas#controlara tu existencia?
-rsh:sad:1:...
-rsh:ser:1:Lo siento viejo, tampoco es tan serio.
-bf:normal:-1:...
-rsh:con:1:Dejame adivinar, quieres cantar#otra vez?
-bf:normal:-1:beep bap boop
-rsh:con:1:Muy bien, pero, voy a cantar mas#calmado.
-rsh:ser:1:No quiero hacerlo tan dificil
-rsh:kill:1:Despues de todo, podría dejar de existir.
+rsh:con:1:Supongob que lo sabes...?
+bf:normal:-1:ERES GAY
+rsh:ang:1:Seh pero no es eso
+rsh:ang:1:Bueno, como te sentirias TU si alguien#controlara tu existencia?
+bf:normal:-1:No se, dejo que mi amorsito me controle
+gf:normal:-1:Si boifrendo golpeame porfis
+rsh:con:1:...
+bf:normal:-1:Bueno, que decias?
+rsh:ser:1:...perdon bro, no es tan serio, en verdad.
+bf:normal:-1:no es tan que?
+rsh:con:1:Supongo que deberiamos cantar algo.
+bf:normal:-1:deberiamos cant- espera, #ahora hablas en mis terminos
+rsh:con:1:Bueno, pero amigo, hazla facil por favor
+bf:normal:-1:ENTONCES SOY MAS FUERTE QUE T-
+rsh:kill:1:No quiero muertes hoy...

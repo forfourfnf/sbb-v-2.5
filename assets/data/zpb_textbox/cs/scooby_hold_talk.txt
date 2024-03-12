@@ -1,7 +1,7 @@
-sh:ser:1:Tipo, o que foi, Scooby?
-scb:scared:1:O monstro, Salsicha...
-scb:scared:1:Ela é malvada!
-scb:scared:1:Ela me assusta...
-sh:con:1:Do que você tá falando meu fi?#Essa moça?
-sh:smug:1:Ela é tipo, super de boa!
-sh:normal:1:Por que você tá falando isso?
+sh:ser:1:SCOOB MEU FIH QUE OUVE?
+scb:scared:1:A BIXA SARCHICHA...
+scb:scared:1:ELA é UM PNG LEK!
+scb:scared:1:ELA EH O DJABO...
+sh:con:1:Mane ela é so um png???#Tem nada demais po
+sh:smug:1:Ela nunca saiu de ser #um pião PNG!
+sh:normal:1:E eu nem comi bos-

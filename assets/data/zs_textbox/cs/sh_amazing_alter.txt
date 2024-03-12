@@ -1,7 +1,7 @@
 sh:con:1:...
-sh:smug:1:Veo que te diste cuenta?
-bf:normal:-1:baap?
-sh:normal:1:Osea, descubriste que no tengo control#sobre tu plataforma...
-sh:smug:1:..Y luego me ignoraste y seguiste#flotando hacia abajo!
-bf:normal:-1:bep bee?
-sh:normal:1:Si, no te preocupes, lo puedo#salvar.
+sh:smug:1:que demonios fue eso?
+bf:normal:-1:bueno yo solo force mi pie?
+sh:normal:1:ok pero como mierda #sabias sobre eso?
+sh:smug:1:ni siquiera te inmutaste hacia mi, #IRRESPETUOSO!
+bf:normal:-1:tomalo perra XDDDD
+sh:con:1:callate...

@@ -1,5 +1,5 @@
-Sobre você:Seu passado:O corredor
-Por que você está aqui:Seu trabalho:Sua familia
-Sobre o Salsicha:Poder do Salsicha:Passado do Salsicha
+Sobre Voce:Seu Passado:O corredor
+Porque aqui:Seu trabalho:Sua familia
+Sobre Saggy:Poder de Saggy:Passado de Saggy
 Suas partes
 Sair

@@ -1,8 +1,8 @@
 menu
-h_normal:INCRíVEL!!:introAccept
-h_happy:Eu não poderia estar mais FELIZ por#estar trabalhando com você!!
-n_normal:caham..
-n_normal:Como dou valor á sua inteligência como um indivíduo#eu não irei falar na lata por onde encontrar minhas#peças
-n_happy:Porém, cê sabe, se você se sentir meio perdido...
-h_happy:Sinta se livre para falar comigo! Sobre qualquer coisa!
-h_sad:(Eu te imploro):musicStop
+h_normal:AEEEEEEEEEEEE!!:introAccept
+h_happy:Não poderia estar mais feliz trabalhando#com você!!
+n_normal:ahem..
+n_normal:Como eu valorizo sua idiotice como individuo#eu vou dificultar a informacao que voce precisa#pra achar minhas partes
+n_happy:mas se voce estiver triste ou seila...
+h_happy:Pode conversar comigo! sobre qualquer coisa!
+h_sad:(pelo amor de deus):musicStop

@@ -1,10 +1,12 @@
-prompt:Aceitar:Negar:intro/first/followups/accept:intro/first/followups/sad
-n_con:Qu-
-n_normal:AH sim eu sou apenas
-n_con:Um espírito ambulante, preso em uma máscara#por alguém malvado
-n_happy:E VOCê é o único que pode me ajudar
-n_trauma:(O único que consegue me ouvir.......)
-n_con:Eu quero enfim ser livre desta ''''maldição'''' terrível
-n_normal:Então por favor por favor considere minha#proposta
-h_normal:3000 batalhas de rap, por conta da casa
-n_happy:O que me diz?!
+prompt:Aceitar:Recusar:intro/first/followups/accept:intro/first/followups/sad
+n_con:a-
+n_normal:OH eu sou
+n_con:um fantasma do fnaf 3 mas to preso#numa mascara por alguem du mal
+n_happy:e VOCE é o unico que pode me ajudar
+n_trauma:(o unico que pode me ouvir.......)
+n_normal:calma voce nao tem orelhas (?????)
+n_con:entao eu queria me libertar da#minha terrivel ''''maldicao''''
+n_sad:eu nem to virado pro lado certo...
+n_normal:entao porfavorzinho aceita a proposta
+h_normal:42069 batalhas de rap de cortesia
+n_happy:eae?!

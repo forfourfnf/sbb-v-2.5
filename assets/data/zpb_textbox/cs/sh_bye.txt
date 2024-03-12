@@ -1,4 +1,5 @@
-sh:normal:1:Eu ouvi dizer que eles tavam juntando uns#individuais bem poderosos pra um torneio#em universo aqui perto...
-sh:smug:1:E se o Saitama estiver lá, eu não posso#perder isso.
-sh:normal:1:Então tipo, adeus! Por enquanto pelo menos.
-sh:kill:1:Ah, e na próxima vez que você cortar o#Scooby no meio eu não vou fingir que cantar#é minha única opção de novo.
+sh:normal:1:Tem mais gente fortona em outros #universos de qualidade batatinha
+sh:con:1:eu me pergunto onde eu vou agora...
+sh:normal:1:Então ADIOS.
+sh:kill:1:ah na proXIMA QUE TU PENSAR EM CORTAR #MEU DOG NO MEIO, EU VO TE #MASSACRA TODINHO.
+bf:a:-1:Não patrão fica de boa, na paz

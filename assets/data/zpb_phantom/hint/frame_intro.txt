@@ -1,6 +1,6 @@
 continue:hint/frame
-n_normal:O RESTO DO MEU ROSTO está perdido
-n_con:Sabe, a coisa aonde os negócios vão pro troço
-n_normal:A base
-n_con:No formato da metade de um coração
-h_normal:ENFIM
+n_normal:minha FACE ta sumida
+n_con:voce sabe, onde as coisas vao pra coisa coisado
+n_normal:a base
+n_con:uma forma geometrica seila
+h_normal:ENTAO

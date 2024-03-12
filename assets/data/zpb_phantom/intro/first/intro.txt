@@ -1,17 +1,18 @@
-prompt:Aceitar:Quem é você:intro/first/followups/accept:intro/first/followups/who
-n_happy:Oh olá você!!!
-n_happy:PRAZER em te conhecer bê efi.:introMusic
-n_happy:Estou feliz em falar com um ser vivo
-n_normal:Eu estive nesta prisão solitária por
+prompt:Aceitar:Quem é voce:intro/first/followups/accept:intro/first/followups/who
+n_happy:Ah eaeeeeeee!!!
+n_happy:MUITO feliz em te ver boi.:introMusic
+n_happy:Muito bom falar com algo vivo
+n_normal:Eu fiquei sozinho por tipo,
 n_trauma:algumas eras
-n_normal:Enfim, vejo que você tem parte da minha cara,#não é mesmo??
-n_happy:Vou precisar dela para retorná-la para onde ela#pertence... (meu rosto)
-n_normal:Mas eu não quero simplesmente
-n_trauma:ARRANCá-LA de você sem te dar algo em retorno...
-n_normal:Então eu vou te oferecer uma proposta!!
-n_normal:Você me dá essa coisa que você achou e me ajuda#a encontrar o resto
-n_normal:E eu te darei...
-h_normal:3000 BATALHAS DE RAP!!!!
-h_happy:VOCê GOSTA DELAS, NãO GOSTA??
-n_normal:Então, o que me diz bê?
-n_happy:Temos um acordo??
+n_normal:Enfim você tem parte da minha cara,#to certo??
+n_happy:eu preciso dessa porra pra que#ela fique onde pertence (minha cara)
+n_normal:relaxa eu nao vou so
+n_trauma:ROUBAR ELA de voce e que se foda...
+n_normal:Entao aqui vai uma promocao!! (SIM SIM)
+n_normal:Mim de essa porra ai e me ajuda#a achar o resto pfv
+n_normal:e eu vou te dar...
+h_normal:42069 BATALHAS DE RAP!!!!
+h_happy:VOCE AMA ELAS NE??
+n_happy:(eu nao posso oferecer amor)
+n_normal:eae boi
+n_happy:vai ou nao vai??

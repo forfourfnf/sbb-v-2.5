@@ -1,12 +1,9 @@
-bf:normal:-1:bop ba
-rsh:ang:1:Como assim "é só isso"?!
-rsh:con:1:Eu te falei que eu não quero-
-bf:burn:-1:bup baap bee bom pa
-rsh:ang:1:Ah, então é assim que vai ser? Você vai#desistir se ficar entediado?!
-bf:normal:-1:bapee bo
+bf:normal:-1:LIXO LIXO LIXO LIXOOOOOOKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+rsh:ang:1:PORQUE TU TA FAZENDO ISSO!?
+rsh:con:1:quer saber de algo?
+rsh:ang:1:ja descobri seu joguinho fihdaputa#eu vou aumentar a potencia
+bf:normal:-1:AI SIM VADIA
 rsh:con:1:...
 rsh:smug:1:Heh
-rsh:smug:1:De alguma maneira, eu admiro essa sua#esperteza, babaca.
-rsh:smug:1:Beleza, hora de ir um nível adiante.
-rsh:ser:1:Eu não tenho nada a perder, de qualquer jeito.
-bf:burn:-1:baap!
+rsh:smug:1:alem do mais, voce nao me vence#numa batalha de rebolado
+bf:burn:-1:quer apostar quanto?

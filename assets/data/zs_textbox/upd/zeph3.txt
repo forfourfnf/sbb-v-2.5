@@ -1,3 +1,4 @@
-zsh:normal:1:Eso fue divertido!!
-zsh:normal:1:Nos vemos en 10 años bee.
-zsh:laugh:1:Volveré lleno de sorpresas, #mas te vale estar listo!!!
+zsh:normal:1:bueno ya me canse
+zsh:normal:1:nos vemos en 4 años perrita
+zsh:laugh:1:o tal vez nunca, jodete, odie esto
+bf:normal:-1:esto duro como tres minutos, mentiroso de mier-

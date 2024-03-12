@@ -1,15 +1,18 @@
 menu
-n_normal:Oh It's not really a family I'd say...
-n_normal:Think of it as creator and creations
-n_happy:We just called our creator dad
-n_normal:His name is 'The Merciless sun god'
-n_con:My 2 brothers were called 'Excelsior the cat' and#'Big lion'
-n_con:Which makes me wonder who even named them????
-n_normal:Whatever.
-n_con:I never got to meet Excelsior though
-n_sad:Big lion killed him.:songScary
-h_sad:SO COOL RIGHT?? To have a MANIAC for a brother?????
+n_normal:Ah it was not like a regular family#yknow...
+n_normal:Imagine like creator and creations
+n_happy:We just called our creator dad to be easy
+n_con:His name is...
+n_normal:i forgor
+n_con:My 2 brothers were called...
+n_normal:i forgr
+n_trauma:Wait i dont remember anything
+n_normal:Whatever lets just call dad 'linux'.
+n_con:and my brothers 'wuz' and 'luan'
+n_sad:they kys themselves...:songScary
+n_sad:right after they killed my wife...
+h_sad:SO COOL RIGHT?? To have# MANIACS for brothers?????
 n_sad:... I'm sorry
-n_con:In the end I surpassed him in power, I surpassed even#my dad:songGood
-n_sad:And when Big lion tried to go after my dad, I did what#had to be done.:fadeOut
-h_normal:Imagine trying to kill your family because#of a DISSAGREEMENT?!!?:fadeIn
+n_con:In the end I was superior,#I surpassed even#my dad:songGood
+n_sad:wuz tried coming back just to kill#my dad, I did wha #had to be done.:fadeOut
+h_normal:Imagine trying to kill your family because#of a FUCKING WHATSAPP MEME?!!?:fadeIn

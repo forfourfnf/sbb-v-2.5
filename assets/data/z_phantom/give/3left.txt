@@ -1,4 +1,4 @@
 exit
-h_happy:Thank you bee!!
+h_happy:Thank you boi!!
 n_normal:Now there's 3 pieces left
-n_happy:Good luck!!!
+n_happy:move your ass and do it quick

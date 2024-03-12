@@ -1,14 +1,17 @@
-sh:smug:1:Eu te assustei, né?
-bf:a:-1:bee
-sh:normal:1:Eu não preciso nem de um estalar de dedos#pra tipo, salvar todas as pessoas morrendo#nesse planeta.
-gf:normal:-1:Eu não teria matado seu cachorro se#eu não soubesse disso.
-sh:ser:1:...
-sh:normal:1:De qualquer jeito, pra te falar a verdade#o Scooby estava procurando por você.
-sh:normal:1:A gente veio para o seu universo por causa#que ouvimos que um adolescente era#tipo, imortal.
-sh:smug:1:E você me venceu de primeira!
-sh:con:1:Da minha perspectiva pelo menos...
-sh:con:1:Eu adivinho que você tem algum tipo de#habilidade de resetar o tempo, então que#bom que eu não usei todo meu poder contra você.
-bf:normal:-1:baap be?
-sh:normal:1:0.002%
+sh:smug:1:HAHA TROLLEI ATE VOCE #KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+gf:normal:1:EH PEGADINHA, GARAIB #KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+scb:normal:1:CE TINHA QUE VER SUA CARA #KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+bf:a:-1:mAaAaAaAaAaAano
+sh:normal:1:Mano eu nem preciso do estalar do thanos,#pra trazer geral devolta
+gf:normal:-1:Por isso eu podia matar cachorro
+sh:ser:1:Eu nao gostei dessa, porém...
+sh:normal:1:Vo admite, scob tava te procurando #meu fih.
+sh:normal:1:Ouvimos falar de um jovem imorrivel e #muito chato...
+bf:burn:-1:Oxe qual foi viado
+sh:smug:1:E tu era mesmo!
+sh:con:1:Pelo menos nesse universio...
+sh:con:1:Chuto que esse universo seja onde#voces são horriveis, então #que bom que eu to deboa.
+bf:normal:-1:que?
+sh:normal:1:0.002% #tava nem tentando
 bf:a:-1:a
-sh:normal:1:Bem, eu tenho que cair fora agora.
+sh:normal:1:Ok minha mãe ta me chamando.

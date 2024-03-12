@@ -1,17 +1,20 @@
-bf:normal:-1:boop ba beep?
-rsh:normal:1:Meu cachorro?
-rsh:con:1:Você quer dizer, o Scooby?
-bf:normal:-1:baa
-rsh:ser:1:Ele morreu já faz muito tempo...
-rsh:con:1:Espera, como você sabe sobre o Scooby#meu fi?
-bf:a:-1:...
-gf:normal:-1:A gente literalmente viu ele semana#passada...
-rsh:ang:1:Ah, então o Salsicha esteve aqui.
-bf:a:-1:..baa?
-rsh:ser:1:Não, a gente não é a mesma pessoa.
-rsh:ser:1:Eu acho que ele foi te visitar quando#eu disse pra ele sobre o seu poder.
-rsh:normal:1:Aliás, você ouviu falar que ele tá em#um torneio agora mesmo?
-rsh:smug:1:A próxima luta dele vai começar em breve, e#eu não quero perder isso.
-bf:normal:-1:..beep
-rsh:smug:1:Mais uma?
-rsh:smug:1:Beleza...
+bf:normal:-1:cara porque tu ta chorando?
+rsh:normal:1:que?
+rsh:con:1:voce nao tem um pet?
+bf:normal:-1:nah
+rsh:ser:1:nem eu, scob foi de, tipo#arrasta pra cima faz anos ja...
+bf:a:-1:calma eu nao matei ele nao?
+rsh:con:1:COMO VOCE SABE DO SCOB?
+gf:normal:-1:a gente fez uma pegadinha semana passada#seu arrombado
+rsh:ang:1:calma o Saggy tava aqui?
+gf:normal:-1:nao era sarchicha?
+rsh:ang:1:tanto faz vagabunda
+bf:a:-1:que porra é essa?
+rsh:ser:1:voce nao viu que eu sou vermelho#cego do caralho?
+bf:normal:-1:ah
+gf:normal:-1:entao voces sao Saggys diferentes?
+rsh:ser:1:sim, a gente tava viajando por ai,#e nos sentimos seu poder aqui
+rsh:normal:1:eu acho que ele queria muito te#enfrentar
+rsh:smug:1:falando nisso, a gente ia lutar tipo,#agora mesmo.
+bf:normal:-1:naaaao mano eu te amo nao me deixa UWAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+rsh:con:1:ok ok acalma a xerequinha, puto...

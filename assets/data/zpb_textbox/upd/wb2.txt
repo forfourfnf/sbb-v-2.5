@@ -1,10 +1,11 @@
-wbsh:normal:1:Caramba, impressionante!
-wbsh:smug:1:De alguma forma você conseguiu me derrotar!
-bf:normal:-1:bee...
-wbsh:normal:1:Você deve tá bem contente consigo mesmo.
-wbsh:smug:1:Eu tô feliz que eu pude fazer você se sentir#assim,mesmo acabando com você.
-bf:a:-1:...
-wbsh:smug:1:Bem, então é isso.
-wbsh:normal:1:Eu vou tipo, cair fora agora.
-wbsh:smug:1:Se você conseguiu me derrotar, com certeza#você vai descobrir como sair desse lugar.
-wbsh:laugh:1:Falow pra sempre, otário!
+wbsh:normal:1:porra eu perdi
+bf:normal:-1:collswag
+wbsh:smug:1:bem eu tentei
+wbsh:smug:1:se considere o rei por derrotar#um semi-deus como eu
+wbsh:normal:1:mas você sabe que ta preso no#inferno né?
+bf:a:-1:oporra
+wbsh:smug:1:nah relaxa
+wbsh:smug:1:pelo menos você pode só se fude-
+gf:normal:-1:e eu seu idiota do cacete?
+wbsh:normal:1:...
+wbsh:laugh:1:Tchau pra sempre, ARROMBADO!

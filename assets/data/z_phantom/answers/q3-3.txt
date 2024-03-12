@@ -1,22 +1,28 @@
 markReplace:backstory:answers/q3-3-2
 n_normal:His past, huh?
-n_normal:The tall one hasn't been through much, that's why#he's the weakest
+n_normal:The tall one was just sponsored#he's the weakest
 n_sad:But the other ones have been through a LOT.
-n_normal:The green one obtained his power at 17, the red one#at 18
-n_happy:They were really young, I think that was the key to#their amazing strength growth
-n_con:But there was one marking moment in their lives...:fadeOut
-n_sad:Shaggy had this hole gang of friends. But at one#point, something terrible happened.
-n_sad:One of his friends went crazy and...
+n_normal:both obtained their powers at 18,#almost got jailed
+n_happy:They were really young, I think that was#the key to their amazing#strength growth
+n_con:But there was one canon event in their lives...:fadeOut
+n_sad:Saggy had this gang of friends. But at one#point, something terrible happened.
+n_sad:One of his friends went fucking ballistic and...
 n_sad:She killed everyone.
-s_normal:Green Shaggy loved her deeply, it was really#painful for him to see her break down like that.
-s_normal:He was able to stop her from killing Scooby,#before she took her own life.
-n_sad:Red Shaggy wasn't so lucky. He didn't have such a#strong connection with her so he#wasn't there when the massacre happened.
-s_normal:He just came back from lunch to find... His hole#gang dead...
+s_normal:Green Saggy loved her deeply, it was really#painful for him to see her #go wild like that.
+s_con:but imagine a toxic relationship...#yeah
+s_normal:He was able to protect scob,#before she battled saggy and died...
+n_sad:Red Saggy wasn't so lucky. He did have a strong#connection before he came out of the closet.
+n_sad:she went nuts, like a undertale genocide player
+s_normal:He just came back from lunch to find... #His hole gang dead...
+s_con:and almost getting killed by the manicac...
+n_sad:...he put her out of her misery
 n_sad:...
 n_con:They've gotten stronger and stronger ever since.
-n_sad:They were devastated at the time, specially#green Shaggy.
-n_con:Thankfully, they were able to move past it:fadeIn
-n_normal:Now they are 70 years old and focus on discovering#places across the hall!
-n_normal:They keep getting stronger and finding new#opponents.
-n_happy:It's nice to see them happy.
-n_con:Oh and at some point they became good singers??
+n_sad:They were devastated at the time
+n_con:But green saggy took it as a champ? (how?):fadeIn
+n_con:but the past is the past
+n_normal:Now they are ? years old#(they lie their ages a lot i've lost track)
+n_normal:and focus on discovering#places across the hall!
+n_normal:They keep getting stronger and finding#new opponents.
+n_happy:I love them, they are so happy.
+n_con:Oh and at some point they became horrible singers??

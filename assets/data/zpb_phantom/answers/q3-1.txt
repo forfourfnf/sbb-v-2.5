@@ -1,13 +1,14 @@
 menu
-s_angry:Ah eu odeio aquele cara
-s_con:Não os bacanas, o altão mesmo
-n_normal:Mas todos tem algo em comum
-n_normal:Seus poderes incríveis (zzzzz)
-n_happy:Os Salsichas são bem poderosos, eu diria#que eles são bem fortes.
-n_normal:Eu estive seguindo a jornada deles desde o começo,#antes de me tornar em uma máscara!!
-n_happy:Eles me pareciam interessantes...
-n_normal:(exceto o altão)
-n_sad:A vida deles foi como uma tragédia!! #é realmente triste...
-n_normal:(exceto o altão)
-n_con:O Salsicha vermelho era forte mentalmente,#mesmo com a vida dolorosa dele
-n_normal:Quanto ao verde...
+s_angry:EU ODEIO ESSE CARA
+s_con:Nao os legais, to falando o verde catarro
+n_normal:Mas todos eles tem algo em comum
+n_normal:O seu incrivel poder (nao me diga?)
+n_happy:Os Saggys podem fazer muitas coisas,#admito que eles são fortes pra cacete
+n_normal:Eu segui a jornada deles desde do começo,#até de eu virar uma mascara!!
+n_happy:Eles parecem interessante...
+n_normal:(foda-se o grandao)
+n_sad:A vida deles é tipo uma novela mexicana...#uma tragedia do caralho eu diria!!
+n_normal:(foda-se o grandao)
+n_con:Saggy vermelhor passou por muito#mas ta bem eu acho
+n_normal:o verde superou o trauma bem pra porra
+n_con:aparentemente eles podem se FUNDIR??#(ai meu cacetaralho)

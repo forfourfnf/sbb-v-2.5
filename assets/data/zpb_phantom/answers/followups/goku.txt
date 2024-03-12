@@ -1,3 +1,4 @@
 menu
-h_normal:...
-n_con:Vencer de quem??
+h_normal:uhhhhh
+n_con:sim eu acho, eles lutaram uma vez#e o saggy ganhou (so sei de uma luta)
+n_happy:MAS ELES VENCERIAM O GOKU??????

@@ -1,2 +1,2 @@
 menu
-n_normal:Pois é não cai nessa baboseira não
+n_normal:alias nao sei quem é o mais forte#(nao é o grandao)

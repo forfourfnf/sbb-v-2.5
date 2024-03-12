@@ -1,10 +1,10 @@
-sh:normal:1:Anyways, to tell you the truth Scooby#was looking for you.
-sh:normal:1:We came to your universe because we#heard a teenager was like, immortal
-sh:smug:1:And you beat me first try!
-sh:con:1:From my perspective at least...
-sh:con:1:I'm guessing you have some time resetting#ability so I'm glad I didn't go#full power against you.
-sh:smug:1:You must've been here for a long time#for you to realize I wasn't serious
-bf:normal:-1:baap be?
-sh:normal:1:0.002%
+sh:normal:1:Yeah scob was searching for you.
+sh:normal:1:But i bet you knew that already#oh lord big balls
+bf:burn:-1:bow to your master now bitch-
+gf:normal:-1:boifrendo seriously fuck off
+sh:con:1:...
+sh:con:1:(this feels wrong, why he did that?) #(i mean, what was he looking after...?)
+sh:smug:1:at least you realized i wasnt serious
+bf:normal:-1:0.002%?
+sh:normal:1:fuck off
 bf:a:-1:a
-sh:normal:1:Welp, we gotta go and stuff

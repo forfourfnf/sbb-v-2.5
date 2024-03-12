@@ -1,12 +1,14 @@
 forceExit
-n_con:...
+n_con:a...
 n_sad:Oh...:musicStop
-n_sad:I completely understand
+n_sad:aight i understand (i dont)
 s_normal:I guess, I'll have to wait
 h_sad:A couple more eons
 n_con:To find more help...
-n_sad:Thanks anyways bee
-n_sad:If you ever reconsider... I'll be here, waiting.#I won't move.
-n_con:I can't after all haha
+n_sad:its fine tho boi
+n_sad:If you can always like... reconsider,#i'll be waiting.I won't move.
+n_con:I can't move
 n_sad:...
-s_normal:Bye bye
+n_con:even if i say pretty please???????
+n_sad:...
+s_normal:fuck off

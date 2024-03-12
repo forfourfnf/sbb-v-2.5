@@ -1,8 +1,8 @@
-prompt:Oh okay:Would they beat goku tho:answers/followups/okay:answers/followups/goku
+prompt:Oh okay:Would they beat og shaggy tho:answers/followups/okay:answers/followups/goku
 n_normal:Wait...
-n_con:Don't tell me you bought into their percentage#bullshit??
+n_con:They are doing the fucking#percentage powerscalling??
 h_happy:HAHAHA YOU FOOL THEY'RE JUST PLAYING#WITH YOU!!
-n_happy:I mean, don't get me wrong, they ARE extremely#strong, but...
-n_con:How the fuck would a being know his exact#usage percentage down to the decimals??
-n_normal:You need an external reader to do that (which I had)
-h_happy:I tell you, the numbers they spit at you are VAST#exaggerations!!
+n_happy:well they are FUCKING STRONG but like,#how do you know your % so well?
+n_con:like you need a scanner for that and a GOD ONE#you got it??
+n_normal:I have a external reader (i can read the percentages)
+h_happy:I tell you, the numbers are complete bullshit

@@ -1,10 +1,10 @@
-sh:normal:1:Bueno, a decir verdad, Scooby te estaba#buscando
-sh:normal:1:Vinimos a tu universo porque escuchamos#que un adolecente era inmortal.
-sh:smug:1:Y me ganaste a la primera!
-sh:con:1:Desde mi perspectiva almenos...
-sh:con:1:Asumo que tienes una habilidad para volver#en el tiempo así que me alegro#de que no desaté mi poder completo.
-sh:smug:1:Y creo que has estado aquí un buen rato#para haberte dado cuenta de que#no peleaba en serio
-bf:normal:-1:baap be?
-sh:normal:1:0.002%
+sh:normal:1:Yeah scob los estaba buscando.
+sh:normal:1:pero supongo que ya lo sabias #por el amor a jesus
+bf:smug:-1:inclinate ante tu maestro ahora pequeña bastarda-
+gf:normal:-1:boifrendo de verdad, vete a la mierda
+sh:con:1:...
+sh:con:1:(esto se siente mal, por que lo hizo?) #(digo, que estaba buscando despues de...?)
+sh:smug:1:por lo menos te diste cuenta que no lo hacia enserio
+bf:normal:-1:0.002%?
+sh:normal:1:jodete
 bf:a:-1:a
-sh:normal:1:Bueno, ahora nos tenemos que ir.
